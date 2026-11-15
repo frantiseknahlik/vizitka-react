@@ -1,4 +1,4 @@
-import { dovednosti } from "../data.js";
+import { dovednosti } from "./data.js";
 
 function Karta({ nazev, popis, tagy }) {
   return (

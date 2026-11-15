@@ -1,4 +1,4 @@
-import { kontakty } from "../data.js";
+import { kontakty } from "./data.js";
 
 function Kontakt() {
   return (

@@ -1,8 +1,8 @@
-import Header from "./components/Header.jsx";
-import Hero from "./components/Hero.jsx";
-import OMne from "./components/OMne.jsx";
-import Dovednosti from "./components/Dovednosti.jsx";
-import Kontakt from "./components/Kontakt.jsx";
+import Header from "./Header.jsx";
+import Hero from "./Hero.jsx";
+import OMne from "./OMne.jsx";
+import Dovednosti from "./Dovednosti.jsx";
+import Kontakt from "./Kontakt.jsx";
 
 function App() {
   return (

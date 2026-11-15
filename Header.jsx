@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { jmeno, menu } from "../data.js";
+import { jmeno, menu } from "./data.js";
 
 function Header() {
   const [otevreno, setOtevreno] = useState(false); // mobilní menu
